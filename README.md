@@ -11,7 +11,9 @@ Please Subscribe My Youtube channel
 
 Youtube: https://www.youtube.com/channel/UCl3FtEWoxIBDFIB4vXm9jjg
 
-Instagram: https://www.instagram.com/_d.ttai?igshid=OGQ5ZDc2ODk2ZA==## Running
+Instagram: https://www.instagram.com/_d.ttai?igshid=OGQ5ZDc2ODk2ZA==
+
+## Running
 
 * $ pip install pygame
 * $ shooter main.py  --> run game
