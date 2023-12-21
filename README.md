@@ -3,7 +3,7 @@ POS game from freshman at UEH university
 # POS GAME in Python
 This is a shooting game series and incorporates the concept of pursuing scholarships for college students
 
-## creator
+## Creator
 
 Tan Tai and Team
 
