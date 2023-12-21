@@ -15,8 +15,10 @@ Instagram: https://www.instagram.com/_d.ttai?igshid=OGQ5ZDc2ODk2ZA==
 
 ## Running
 
+* $ Download POS main.zip
+* $ Extract this file
 * $ pip install pygame
-* $ shooter main.py  --> run game
+* $ POS main.py  --> run game
 
 ## Controls
 
