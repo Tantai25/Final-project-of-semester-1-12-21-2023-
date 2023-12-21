@@ -24,7 +24,7 @@ Instagram: https://www.instagram.com/_d.ttai?igshid=OGQ5ZDc2ODk2ZA==## Running
 * SPACE: Shooting
 * Q: Throw pencils // kinds of boom
 * Esc: Exit game without press button
-* Left/Right Mouseclick: Secret
+
 
 ## Dependencies	
 * pygame	
